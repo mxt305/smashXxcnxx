@@ -5,5 +5,5 @@
         "Homepage": "https://github.com/mxt305/smashXxcnxx",
         "License": "https://github.com/mxt305/smashXxcnxx/blob/main/LICENSE"
     },
-    "source": ["mirrorList"]
+    "source": ["xyzList", "mirrorList"]
 }

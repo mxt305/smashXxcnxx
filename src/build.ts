@@ -13,7 +13,8 @@ const fileHeader = Object.keys(headers)
     .join("\n");
 
 const csvHeaders = ["domain", "option", "remark"];
-let rules: string[] = [];
+let adbRules: string[] = [];
+let ublRules: string[] = [];
 
 const parseSource = async (source: string) =>
     new Promise((resolve, reject) => {
@@ -24,18 +25,20 @@ const parseSource = async (source: string) =>
             columns: csvHeaders,
             skip_empty_lines: true,
         });
-        const recordRules = records.map(
+        const recordAdbRules = records.map(
             (row) =>
                 `||${row.domain}^${row.option !== "" ? `$${row.option}` : ""}`
         );
-        rules = [...rules, ...recordRules];
+        const recordUblRules = records.map((row) => `*://${row.domain}/*`);
+        adbRules = [...adbRules, ...recordAdbRules];
+        ublRules = [...ublRules, ...recordUblRules];
     });
 
 settings.source.forEach(async (source) => {
     parseSource(source);
 });
 
-const fileBody = rules.join("\n");
+const fileBody = adbRules.join("\n");
 
 const content = `!\n${fileHeader}\n!\n!\n${fileBody}`;
 
@@ -44,5 +47,14 @@ fs.writeFile("./filters/xxcnxx-filter.txt", content, (err) => {
         console.error(err);
         return;
     }
-    console.log("Build successfully");
+    console.log("Build adblock filter successfully");
+});
+
+const ublContent = ublRules.join("\n");
+fs.writeFile("./filters/xxcnxx-uBlacklist.txt", ublContent, (err) => {
+    if (err) {
+        console.error(err);
+        return;
+    }
+    console.log("Build uBlacklist list successfully");
 });
