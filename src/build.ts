@@ -29,9 +29,10 @@ const parseSource = async (source: string) =>
             (row) =>
                 `||${row.domain}^${row.option !== "" ? `$${row.option}` : ""}`
         );
-        const recordUblRules = records.map((row) => `*://${row.domain}/*`);
+        const recordUblRules1 = records.map((row) => `*://${row.domain}/*`);
+        const recordUblRules2 = records.map((row) => `*://*.${row.domain}/*`);
         adbRules = [...adbRules, ...recordAdbRules];
-        ublRules = [...ublRules, ...recordUblRules];
+        ublRules = [...ublRules, ...recordUblRules1, ...recordUblRules2];
     });
 
 settings.source.forEach(async (source) => {
