@@ -1,15 +1,20 @@
-*://viewty.xyz/*
-*://procnw.xyz/*
-*://ppcnzi.xyz/*
-*://keecnya.xyz/*
 *://cacnka.xyz/*
-*://*.viewty.xyz/*
-*://*.procnw.xyz/*
-*://*.ppcnzi.xyz/*
-*://*.keecnya.xyz/*
+*://choosewidethus.top /*
+*://keecnya.xyz/*
+*://ppcnzi.xyz/*
+*://procnw.xyz/*
+*://provestringremember.top /*
+*://viewty.xyz/*
 *://*.cacnka.xyz/*
+*://*.choosewidethus.top /*
+*://*.keecnya.xyz/*
+*://*.ppcnzi.xyz/*
+*://*.procnw.xyz/*
+*://*.provestringremember.top /*
+*://*.viewty.xyz/*
 *://11yourtub.co/*
 *://128meto.co/*
+*://12mapa.co/*
 *://2165yy.co/*
 *://aaeflmm.co/*
 *://acceptanctgage.co/*
@@ -28,10 +33,13 @@
 *://arthurleies.co/*
 *://artport.me/*
 *://authenhops.co/*
+*://autoblowmchne.co/*
 *://bagcilasm.co/*
 *://bforbdectory.co/*
 *://bhodgsnrva.co/*
+*://bigappleseeder.co/*
 *://bloccastll.co/*
+*://cdduoyumi.co/*
 *://cfsksupport.co/*
 *://chezmoer.co/*
 *://chisoku.me/*
@@ -42,6 +50,7 @@
 *://crefinadcst.co/*
 *://cursorcrnr.co/*
 *://dalinome.co/*
+*://dcscholpod.co/*
 *://desiredconstlltions.co/*
 *://dinerpar.co/*
 *://econsocietyy.co/*
@@ -51,12 +60,14 @@
 *://ewallacephaphy.co/*
 *://festivalmagickal.co/*
 *://floranth.co/*
+*://foltolik.co/*
 *://fotomaedals.co/*
 *://frecksbingandgas.co/*
 *://funmg.co/*
 *://generansfervice.co/*
 *://georg23.co/*
 *://gretnbrthren.co/*
+*://grosshaendler.me/*
 *://halongbaytour.me/*
 *://healthsgay.co/*
 *://heliscience.co/*
@@ -72,6 +83,7 @@
 *://linexcorpschrsti.co/*
 *://lukoince.co/*
 *://mariposadesigns.me/*
+*://marisabotanica.ru/*
 *://metallkshor.co/*
 *://monacomtano.co/*
 *://mypagnaje.co /*
@@ -84,17 +96,21 @@
 *://originalcrft.co/*
 *://ourfitnest.co/*
 *://p3dxp.co/*
+*://paffatmpte.co/*
 *://pan5rry.co/*
 *://pearlharborsur.co/*
 *://pghdhd.co/*
 *://pinneng.me /*
 *://poemasenelre.co/*
 *://portatura.co/*
+*://qqmaovike.co/*
 *://qtlil.me/*
 *://relationshgrce.co/*
 *://retrplusapp.co/*
 *://scrapyarough.co/*
+*://sdr73.ru/*
 *://seanmrse.co/*
+*://seortpa.co/*
 *://sksmokkng.co/*
 *://startunvas.co/*
 *://studiocavas.co/*
@@ -110,15 +126,19 @@
 *://trsl.me/*
 *://tscars.co/*
 *://ubesxshw.co/*
+*://uk-arkada.ru/*
 *://usinsengmi.co/*
 *://uyenemnh.co/*
+*://viennhotelta.co/*
 *://viniskeri.co/*
 *://vistahuts.co/*
 *://xboxspk.co/*
 *://youloseatr.co/*
 *://yuuan.me/*
+*://zoomftolk.xyz/*
 *://*.11yourtub.co/*
 *://*.128meto.co/*
+*://*.12mapa.co/*
 *://*.2165yy.co/*
 *://*.aaeflmm.co/*
 *://*.acceptanctgage.co/*
@@ -137,10 +157,13 @@
 *://*.arthurleies.co/*
 *://*.artport.me/*
 *://*.authenhops.co/*
+*://*.autoblowmchne.co/*
 *://*.bagcilasm.co/*
 *://*.bforbdectory.co/*
 *://*.bhodgsnrva.co/*
+*://*.bigappleseeder.co/*
 *://*.bloccastll.co/*
+*://*.cdduoyumi.co/*
 *://*.cfsksupport.co/*
 *://*.chezmoer.co/*
 *://*.chisoku.me/*
@@ -151,6 +174,7 @@
 *://*.crefinadcst.co/*
 *://*.cursorcrnr.co/*
 *://*.dalinome.co/*
+*://*.dcscholpod.co/*
 *://*.desiredconstlltions.co/*
 *://*.dinerpar.co/*
 *://*.econsocietyy.co/*
@@ -160,12 +184,14 @@
 *://*.ewallacephaphy.co/*
 *://*.festivalmagickal.co/*
 *://*.floranth.co/*
+*://*.foltolik.co/*
 *://*.fotomaedals.co/*
 *://*.frecksbingandgas.co/*
 *://*.funmg.co/*
 *://*.generansfervice.co/*
 *://*.georg23.co/*
 *://*.gretnbrthren.co/*
+*://*.grosshaendler.me/*
 *://*.halongbaytour.me/*
 *://*.healthsgay.co/*
 *://*.heliscience.co/*
@@ -181,6 +207,7 @@
 *://*.linexcorpschrsti.co/*
 *://*.lukoince.co/*
 *://*.mariposadesigns.me/*
+*://*.marisabotanica.ru/*
 *://*.metallkshor.co/*
 *://*.monacomtano.co/*
 *://*.mypagnaje.co /*
@@ -193,17 +220,21 @@
 *://*.originalcrft.co/*
 *://*.ourfitnest.co/*
 *://*.p3dxp.co/*
+*://*.paffatmpte.co/*
 *://*.pan5rry.co/*
 *://*.pearlharborsur.co/*
 *://*.pghdhd.co/*
 *://*.pinneng.me /*
 *://*.poemasenelre.co/*
 *://*.portatura.co/*
+*://*.qqmaovike.co/*
 *://*.qtlil.me/*
 *://*.relationshgrce.co/*
 *://*.retrplusapp.co/*
 *://*.scrapyarough.co/*
+*://*.sdr73.ru/*
 *://*.seanmrse.co/*
+*://*.seortpa.co/*
 *://*.sksmokkng.co/*
 *://*.startunvas.co/*
 *://*.studiocavas.co/*
@@ -219,10 +250,13 @@
 *://*.trsl.me/*
 *://*.tscars.co/*
 *://*.ubesxshw.co/*
+*://*.uk-arkada.ru/*
 *://*.usinsengmi.co/*
 *://*.uyenemnh.co/*
+*://*.viennhotelta.co/*
 *://*.viniskeri.co/*
 *://*.vistahuts.co/*
 *://*.xboxspk.co/*
 *://*.youloseatr.co/*
 *://*.yuuan.me/*
+*://*.zoomftolk.xyz/*
