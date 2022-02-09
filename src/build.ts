@@ -26,7 +26,7 @@ const parseSource = async (source: string) =>
         });
         const recordRules = records.map(
             (row) =>
-                `|| ${row.domain}^${row.option !== "" ? `$${row.option}` : ""}`
+                `||${row.domain}^${row.option !== "" ? `$${row.option}` : ""}`
         );
         rules = [...rules, ...recordRules];
     });

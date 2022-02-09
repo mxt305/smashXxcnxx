@@ -3,40 +3,40 @@
 ! Description: Filter for blocking phishing website which is Taiwan-user-oriented
 ! Homepage: https://github.com/mxt305/smashXxcnxx
 ! License: https://github.com/mxt305/smashXxcnxx/blob/main/LICENSE
-! Last modified: Wed, 09 Feb 2022 11:21:39 GMT
+! Last modified: Wed, 09 Feb 2022 11:47:03 GMT
 !
 !
-|| 11yourtub.co^
-|| alanhdfield.co^
-|| annagiushen.co^
-|| authenhops.co^
-|| bagcilasm.co^
-|| bhodgsnrva.co^
-|| bloccastll.co^
-|| chisoku.me^
-|| cisneservices.co^
-|| elisatekit.co^
-|| fotomaedals.co^
-|| funmg.co^
-|| generansfervice.co^
-|| georg23.co^
-|| halongbaytour.me^
-|| julieparker.me^
-|| kojin.me^
-|| laurenhance.co^
-|| ledamara.co^
-|| lightthewayink.co^
-|| metallkshor.co^
-|| originalcrft.co^
-|| pearlharborsur.co^
-|| qtlil.me^
-|| scrapyarough.co^
-|| sksmokkng.co^
-|| startunvas.co^
-|| tnkertwne.co^
-|| tropveter.co^
-|| uyenemnh.co^
-|| viniskeri.co^
-|| xboxspk.co^
-|| youloseatr.co^
-|| yuuan.me^
+||11yourtub.co^
+||alanhdfield.co^
+||annagiushen.co^
+||authenhops.co^
+||bagcilasm.co^
+||bhodgsnrva.co^
+||bloccastll.co^
+||chisoku.me^
+||cisneservices.co^
+||elisatekit.co^
+||fotomaedals.co^
+||funmg.co^
+||generansfervice.co^
+||georg23.co^
+||halongbaytour.me^
+||julieparker.me^
+||kojin.me^
+||laurenhance.co^
+||ledamara.co^
+||lightthewayink.co^
+||metallkshor.co^
+||originalcrft.co^
+||pearlharborsur.co^
+||qtlil.me^
+||scrapyarough.co^
+||sksmokkng.co^
+||startunvas.co^
+||tnkertwne.co^
+||tropveter.co^
+||uyenemnh.co^
+||viniskeri.co^
+||xboxspk.co^
+||youloseatr.co^
+||yuuan.me^
