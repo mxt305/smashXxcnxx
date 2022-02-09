@@ -27,10 +27,16 @@ const parseSource = async (source: string) =>
         });
         const recordAdbRules = records.map(
             (row) =>
-                `||${row.domain}^${row.option !== "" ? `$${row.option}` : ""}`
+                `||${row.domain.trim()}^${
+                    row.option !== "" ? `$${row.option}` : ""
+                }`
         );
-        const recordUblRules1 = records.map((row) => `*://${row.domain}/*`);
-        const recordUblRules2 = records.map((row) => `*://*.${row.domain}/*`);
+        const recordUblRules1 = records.map(
+            (row) => `*://${row.domain.trim()}/*`
+        );
+        const recordUblRules2 = records.map(
+            (row) => `*://*.${row.domain.trim()}/*`
+        );
         adbRules = [...adbRules, ...recordAdbRules];
         ublRules = [...ublRules, ...recordUblRules1, ...recordUblRules2];
     });

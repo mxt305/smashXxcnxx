@@ -44,7 +44,7 @@
 *://chezmoer.co/*
 *://chisoku.me/*
 *://cisneservices.co/*
-*://comist.co /*
+*://comist.co/*
 *://cookcntral.co/*
 *://cpanyser.co/*
 *://crefinadcst.co/*
@@ -75,7 +75,7 @@
 *://jeanneoffbks.co/*
 *://julieparker.me/*
 *://kojin.me/*
-*://kolotwtu.co /*
+*://kolotwtu.co/*
 *://laurenhance.co/*
 *://lebrainstrm.co/*
 *://ledamara.co/*
@@ -86,7 +86,7 @@
 *://marisabotanica.ru/*
 *://metallkshor.co/*
 *://monacomtano.co/*
-*://mypagnaje.co /*
+*://mypagnaje.co/*
 *://mywordsndwder.co/*
 *://newrkur.co/*
 *://nfsfashin.co/*
@@ -100,7 +100,7 @@
 *://pan5rry.co/*
 *://pearlharborsur.co/*
 *://pghdhd.co/*
-*://pinneng.me /*
+*://pinneng.me/*
 *://poemasenelre.co/*
 *://portatura.co/*
 *://qqmaovike.co/*
@@ -168,7 +168,7 @@
 *://*.chezmoer.co/*
 *://*.chisoku.me/*
 *://*.cisneservices.co/*
-*://*.comist.co /*
+*://*.comist.co/*
 *://*.cookcntral.co/*
 *://*.cpanyser.co/*
 *://*.crefinadcst.co/*
@@ -199,7 +199,7 @@
 *://*.jeanneoffbks.co/*
 *://*.julieparker.me/*
 *://*.kojin.me/*
-*://*.kolotwtu.co /*
+*://*.kolotwtu.co/*
 *://*.laurenhance.co/*
 *://*.lebrainstrm.co/*
 *://*.ledamara.co/*
@@ -210,7 +210,7 @@
 *://*.marisabotanica.ru/*
 *://*.metallkshor.co/*
 *://*.monacomtano.co/*
-*://*.mypagnaje.co /*
+*://*.mypagnaje.co/*
 *://*.mywordsndwder.co/*
 *://*.newrkur.co/*
 *://*.nfsfashin.co/*
@@ -224,7 +224,7 @@
 *://*.pan5rry.co/*
 *://*.pearlharborsur.co/*
 *://*.pghdhd.co/*
-*://*.pinneng.me /*
+*://*.pinneng.me/*
 *://*.poemasenelre.co/*
 *://*.portatura.co/*
 *://*.qqmaovike.co/*
