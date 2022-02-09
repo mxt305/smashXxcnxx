@@ -10,8 +10,6 @@ The block list of phishing site
 
 - uBlacklist格式清單 https://raw.githubusercontent.com/mxt305/smashXxcnxx/main/filters/xxcnxx-uBlacklist.txt
 
-Personal Blocklist(not by Google)版本待製作中。
-
 ## 說明
 近期出現以台灣使用者為目標的魁儡網站，該網站頂級域名多半為.co, .me的免洗域名，網站名稱多半為亂數無意義的英文字堆疊。
 
