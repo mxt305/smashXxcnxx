@@ -1,0 +1,9 @@
+{
+    "header": {
+        "Title": "Anti-Cacnka list filter",
+        "Description": "Filter for blocking phishing website which is Taiwan-user-oriented",
+        "Homepage": "https://github.com/mxt305/smashXxcnxx",
+        "License": "https://github.com/mxt305/smashXxcnxx/blob/main/LICENSE"
+    },
+    "source": ["mirrorList"]
+}

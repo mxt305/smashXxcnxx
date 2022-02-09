@@ -1,0 +1,28 @@
+{
+  "name": "xxcnxx-block-list-builder",
+  "version": "1.0.0",
+  "description": "Build block list from csv source file",
+  "scripts": {
+    "build": "ts-node src/build.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxt305/smashXxcnxx.git"
+  },
+  "keywords": [
+    "blockList",
+    "Phishing"
+  ],
+  "author": "mxt305",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mxt305/smashXxcnxx/issues"
+  },
+  "homepage": "https://github.com/mxt305/smashXxcnxx#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.16"
+  },
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}

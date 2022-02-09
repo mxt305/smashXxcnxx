@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "resolveJsonModule": true,
+        "esModuleInterop": true
+    },
+    "ts-node": {
+        "files": true
+    },
+    "files": ["src/build.ts", "src/global.d.ts"]
+}
