@@ -3,15 +3,15 @@
 ! Description: Filter for blocking phishing website which is Taiwan-user-oriented
 ! Homepage: https://github.com/mxt305/smashXxcnxx
 ! License: https://github.com/mxt305/smashXxcnxx/blob/main/LICENSE
-! Last modified: Wed, 09 Feb 2022 13:46:30 GMT
+! Last modified: Wed, 09 Feb 2022 13:48:55 GMT
 !
 !
 ||cacnka.xyz^
-||choosewidethus.top ^
+||choosewidethus.top^
 ||keecnya.xyz^
 ||ppcnzi.xyz^
 ||procnw.xyz^
-||provestringremember.top ^
+||provestringremember.top^
 ||viewty.xyz^
 ||11yourtub.co^
 ||128meto.co^
