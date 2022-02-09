@@ -3,12 +3,14 @@
 ! Description: Filter for blocking phishing website which is Taiwan-user-oriented
 ! Homepage: https://github.com/mxt305/smashXxcnxx
 ! License: https://github.com/mxt305/smashXxcnxx/blob/main/LICENSE
-! Last modified: Wed, 09 Feb 2022 17:39:37 GMT
+! Last modified: Wed, 09 Feb 2022 18:16:41 GMT
 !
 !
 ||agreebetteriron.top^
 ||cacnka.xyz^
 ||choosewidethus.top^
+||file-sharing2022.xyz^
+||gamesowhose.top^
 ||highsendwest.top^
 ||keecnya.xyz^
 ||listensomebodysafe.top^
@@ -29,6 +31,7 @@
 ||adamsblankie.co^
 ||aesntl.co^
 ||af088.co^
+||alacialarbin.co^
 ||alanhdfield.co^
 ||allesc.co^
 ||alomashms.co^
@@ -38,14 +41,20 @@
 ||apasass.co^
 ||aquaoxygnae.co^
 ||argentsecuritycnslt.co^
+||aromes-sens.com^
+||artaldet.co^
 ||artexchange.me^
 ||arthurleies.co^
 ||artport.me^
+||athlet.me^
+||autempsdelarose.fr^
 ||authenhops.co^
 ||autoblowmchne.co^
 ||bagcilasm.co^
 ||bali3dok.co^
+||banksovetnik-saratov.ru^
 ||barjazz.me^
+||bazookoo.co^
 ||beijngnst.co^
 ||bforbdectory.co^
 ||bhodgsnrva.co^
@@ -57,18 +66,23 @@
 ||charlesdowdy.me^
 ||chezmoer.co^
 ||chisoku.me^
+||cifrogid.ru^
 ||cisneservices.co^
 ||comist.co^
 ||cookcntral.co^
 ||cpanyser.co^
 ||crefinadcst.co^
+||croaticast.co^
 ||cursorcrnr.co^
 ||daisnvn.co^
 ||dalinome.co^
+||darumfxx.co^
 ||dcscholpod.co^
 ||dehlicofcast.co^
 ||desiredconstlltions.co^
+||digitaotine.co^
 ||dinerpar.co^
+||dmartbeautymicropigmentacion.es^
 ||dmgcago.co^
 ||doctoratorresandrade.es^
 ||doersdjo.co^
@@ -81,6 +95,7 @@
 ||ewallacephaphy.co^
 ||fernandokuaresmapeluqueriaymoda.es^
 ||festivalmagickal.co^
+||fisheriends.co^
 ||fitkat.me^
 ||floranth.co^
 ||foltolik.co^
@@ -97,6 +112,8 @@
 ||hargaepoxyjkrta.co^
 ||healthsgay.co^
 ||heliscience.co^
+||hikartr.co^
+||hoteltrans.eu^
 ||howengchi.co^
 ||igbt-modules.ru^
 ||ilovecss.me^
@@ -113,7 +130,10 @@
 ||lightthewayink.co^
 ||linexcorpschrsti.co^
 ||lisolachece.me^
+||localnplurs.co^
 ||lukoince.co^
+||maitriseconcpt.co^
+||marinersnform.co^
 ||mariposadesigns.me^
 ||marisabotanica.ru^
 ||mattleffler.me^
@@ -122,14 +142,18 @@
 ||monacomtano.co^
 ||motics.me^
 ||mvpautrtes.co^
+||mycredisin.co^
 ||mypagnaje.co^
 ||mytiko.co^
 ||mywordsndwder.co^
+||naijapams.me^
+||neovid.me^
 ||newrkur.co^
 ||nfsfashin.co^
 ||notmyfirstrodeoblog.me^
 ||nourite.co^
 ||nyomdokok.co^
+||omarwraikat.me^
 ||onlinrad.co^
 ||originalcrft.co^
 ||ourfitnest.co^
@@ -141,6 +165,8 @@
 ||pinneng.me^
 ||poemasenelre.co^
 ||portatura.co^
+||print-gs.ru^
+||projecthoplter.co^
 ||qqmaovike.co^
 ||qtlil.me^
 ||rantasa.me^
@@ -149,6 +175,7 @@
 ||retrplusapp.co^
 ||rogerwolfson.me^
 ||ronia.me^
+||ryderftv.co^
 ||scrapyarough.co^
 ||sdr73.ru^
 ||seanmrse.co^
@@ -158,10 +185,12 @@
 ||slobodapatient.me^
 ||smittenevents.me^
 ||startunvas.co^
+||studio-parquet-paris.eu^
 ||studiocavas.co^
 ||studiotwlv.co^
 ||swissdasta.co^
 ||tanhoangrou.co^
+||tati-tatis.ru^
 ||temedtns.co^
 ||tfb7fff.co^
 ||tnkertwne.co^
