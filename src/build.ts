@@ -12,7 +12,7 @@ const fileHeader = Object.keys(headers)
     .map<string>((key) => `! ${key}: ${headers[key]}`)
     .join("\n");
 
-const csvHeaders = ["domain", "option", "remark"];
+const csvHeaders = ["domain", "option", "remark", "tld"];
 let adbRules: string[] = [];
 let ublRules: string[] = [];
 

@@ -7,4 +7,5 @@ declare interface URLSource {
     domain: string;
     option: string;
     remark: string;
+    tld: string;
 }
