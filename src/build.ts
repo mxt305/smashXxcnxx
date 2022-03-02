@@ -15,6 +15,7 @@ const fileHeader = Object.keys(headers)
 const csvHeaders = ["domain", "option", "remark", "tld"];
 let adbRules: string[] = [];
 let ublRules: string[] = [];
+let urls: string[] = [];
 
 const parseSource = async (source: string) =>
     new Promise((resolve, reject) => {
@@ -39,6 +40,7 @@ const parseSource = async (source: string) =>
         );
         adbRules = [...adbRules, ...recordAdbRules];
         ublRules = [...ublRules, ...recordUblRules1, ...recordUblRules2];
+        urls = records.map((row) => row.domain);
     });
 
 settings.source.forEach(async (source) => {
@@ -48,6 +50,16 @@ settings.source.forEach(async (source) => {
 const fileBody = adbRules.join("\n");
 
 const content = `!\n${fileHeader}\n!\n!\n${fileBody}`;
+
+const jsonString = JSON.stringify(urls);
+
+fs.writeFile("./filters/xxcnxx-list.json", jsonString, (err) => {
+    if (err) {
+        console.error(err);
+        return;
+    }
+    console.log("Build json file successfully");
+});
 
 fs.writeFile("./filters/xxcnxx-filter.txt", content, (err) => {
     if (err) {
