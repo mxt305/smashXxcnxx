@@ -2,6 +2,7 @@
 *://negrall.com/*
 *://find-top-prizes-here.life/*
 *://qabayz.site/*
+*://theironnews.site/*
 *://agreebetteriron.top/*
 *://choosewidethus.top/*
 *://gamesowhose.top/*
@@ -21,6 +22,7 @@
 *://*.negrall.com/*
 *://*.find-top-prizes-here.life/*
 *://*.qabayz.site/*
+*://*.theironnews.site/*
 *://*.agreebetteriron.top/*
 *://*.choosewidethus.top/*
 *://*.gamesowhose.top/*
@@ -61,6 +63,7 @@
 *://adsquke.co/*
 *://aesntl.co/*
 *://af088.co/*
+*://aimilai.co/*
 *://airbereak.co/*
 *://ajchevil.co/*
 *://alacialarbin.co/*
@@ -110,6 +113,7 @@
 *://bogaziciforrk.co/*
 *://bolitglva.co/*
 *://bradagna.co/*
+*://brandonvis.co/*
 *://bskaryon.co/*
 *://btvalleeduloir.co/*
 *://buchbx.co/*
@@ -313,11 +317,13 @@
 *://mrgenerical.co/*
 *://mvpautrtes.co/*
 *://mwboad.co/*
+*://mycorkndglss.co/*
 *://mycredisin.co/*
 *://mypagnaje.co/*
 *://mytiko.co/*
 *://mytrport.co/*
 *://mywordsndwder.co/*
+*://naij1st.co/*
 *://netsdeer.co/*
 *://netwrldrror.co/*
 *://neubauburg.co/*
@@ -328,6 +334,7 @@
 *://nonamesrry.co/*
 *://nourite.co/*
 *://noxhyderr.co/*
+*://nqwker.co/*
 *://nyomdokok.co/*
 *://oakwooddctur.co/*
 *://oilofleep.co/*
@@ -358,8 +365,10 @@
 *://place2reent.co/*
 *://playprgty.co/*
 *://poemasenelre.co/*
+*://pokerbstr.co/*
 *://polresmajlengk.co/*
 *://portatura.co/*
+*://praspremim.co/*
 *://primalglass.co/*
 *://primariogy.co/*
 *://printfinshingstre.co/*
@@ -415,11 +424,13 @@
 *://siraortsu.co/*
 *://skenxqxq.co/*
 *://sksmokkng.co/*
+*://smallmediumlarge.co/*
 *://smyohoh.co/*
 *://soonersikc.co/*
 *://sosesabeilles.co/*
 *://specialintre.co/*
 *://sportsclsity.co/*
+*://sportsems.co/*
 *://standrwslt.co/*
 *://startery.co/*
 *://startunvas.co/*
@@ -494,6 +505,7 @@
 *://vistahuts.co/*
 *://wagntaifast.co/*
 *://wandafld.co/*
+*://wason21.co/*
 *://werkthewb.co/*
 *://wewnthre.co/*
 *://wildandalverganics.co/*
@@ -693,6 +705,7 @@
 *://sdr73.ru/*
 *://tati-tatis.ru/*
 *://uk-arkada.ru/*
+*://subzero6969.site/*
 *://amesburytownband.co.uk/*
 *://snvialla.xyz/*
 *://zoomftolk.xyz/*
@@ -721,6 +734,7 @@
 *://*.adsquke.co/*
 *://*.aesntl.co/*
 *://*.af088.co/*
+*://*.aimilai.co/*
 *://*.airbereak.co/*
 *://*.ajchevil.co/*
 *://*.alacialarbin.co/*
@@ -770,6 +784,7 @@
 *://*.bogaziciforrk.co/*
 *://*.bolitglva.co/*
 *://*.bradagna.co/*
+*://*.brandonvis.co/*
 *://*.bskaryon.co/*
 *://*.btvalleeduloir.co/*
 *://*.buchbx.co/*
@@ -973,11 +988,13 @@
 *://*.mrgenerical.co/*
 *://*.mvpautrtes.co/*
 *://*.mwboad.co/*
+*://*.mycorkndglss.co/*
 *://*.mycredisin.co/*
 *://*.mypagnaje.co/*
 *://*.mytiko.co/*
 *://*.mytrport.co/*
 *://*.mywordsndwder.co/*
+*://*.naij1st.co/*
 *://*.netsdeer.co/*
 *://*.netwrldrror.co/*
 *://*.neubauburg.co/*
@@ -988,6 +1005,7 @@
 *://*.nonamesrry.co/*
 *://*.nourite.co/*
 *://*.noxhyderr.co/*
+*://*.nqwker.co/*
 *://*.nyomdokok.co/*
 *://*.oakwooddctur.co/*
 *://*.oilofleep.co/*
@@ -1018,8 +1036,10 @@
 *://*.place2reent.co/*
 *://*.playprgty.co/*
 *://*.poemasenelre.co/*
+*://*.pokerbstr.co/*
 *://*.polresmajlengk.co/*
 *://*.portatura.co/*
+*://*.praspremim.co/*
 *://*.primalglass.co/*
 *://*.primariogy.co/*
 *://*.printfinshingstre.co/*
@@ -1075,11 +1095,13 @@
 *://*.siraortsu.co/*
 *://*.skenxqxq.co/*
 *://*.sksmokkng.co/*
+*://*.smallmediumlarge.co/*
 *://*.smyohoh.co/*
 *://*.soonersikc.co/*
 *://*.sosesabeilles.co/*
 *://*.specialintre.co/*
 *://*.sportsclsity.co/*
+*://*.sportsems.co/*
 *://*.standrwslt.co/*
 *://*.startery.co/*
 *://*.startunvas.co/*
@@ -1154,6 +1176,7 @@
 *://*.vistahuts.co/*
 *://*.wagntaifast.co/*
 *://*.wandafld.co/*
+*://*.wason21.co/*
 *://*.werkthewb.co/*
 *://*.wewnthre.co/*
 *://*.wildandalverganics.co/*
@@ -1353,6 +1376,7 @@
 *://*.sdr73.ru/*
 *://*.tati-tatis.ru/*
 *://*.uk-arkada.ru/*
+*://*.subzero6969.site/*
 *://*.amesburytownband.co.uk/*
 *://*.snvialla.xyz/*
 *://*.zoomftolk.xyz/*
