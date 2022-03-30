@@ -3,11 +3,13 @@
 ! Description: Filter for blocking phishing website which is Taiwan-user-oriented
 ! Homepage: https://github.com/mxt305/smashXxcnxx
 ! License: https://github.com/mxt305/smashXxcnxx/blob/main/LICENSE
-! Last modified: Wed, 30 Mar 2022 14:48:35 GMT
+! Last modified: Wed, 30 Mar 2022 16:03:28 GMT
 !
 !
 ||se10.biz^
+||iqbroker.com^
 ||negrall.com^
+||bestbonus-zone.life^
 ||find-top-prizes-here.life^
 ||qabayz.site^
 ||theironnews.site^
@@ -24,10 +26,15 @@
 ||file-sharing2022.xyz^
 ||himixz.xyz^
 ||keecnya.xyz^
+||minutepatternbook.xyz^
+||planetsuddenradio.xyz^
 ||ppcnzi.xyz^
 ||procnw.xyz^
+||replydiscusstool.xyz^
 ||tworks.xyz^
 ||viewty.xyz^
+||weartradefamous.xyz^
+||yardwarmine.xyz^
 ||motorsportal.at^
 ||hellopsy.ch^
 ||venegreen.cl^
@@ -923,3 +930,30 @@
 ||trkcwlk.xyz^
 ||weartradefamous.xyz^
 ||zoomftolk.xyz^
+||larquey-environnement.fr^
+||wrapetcompagnie-bordeaux.fr^
+||misstchintchin.fr^
+||nicolascorre.fr^
+||bse-events.fr^
+||lsqueen.fr^
+||sweetyfox.fr^
+||fiat600ricambi.fr^
+||jumelage34800.fr^
+||espaceco45.fr^
+||lepetitcadenas.fr^
+||sramelie.fr^
+||deputech.fr^
+||nanosterile.eu^
+||comphard.eu^
+||annugoo.fr^
+||polenaturemaraisdyves.fr^
+||ekoclean-tavik.pl^
+||asteroidworld.fr^
+||sapue.fr^
+||dachdeckerschwabach.de^
+||lemagnac.fr^
+||vosideesnotreprojet.fr^
+||chaussmode.fr^
+||wilcy.eu^
+||japannowonline.fr^
+||mobileadv.eu^
