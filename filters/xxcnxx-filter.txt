@@ -3,7 +3,7 @@
 ! Description: Filter for blocking phishing website which is Taiwan-user-oriented
 ! Homepage: https://github.com/mxt305/smashXxcnxx
 ! License: https://github.com/mxt305/smashXxcnxx/blob/main/LICENSE
-! Last modified: Tue, 21 Feb 2023 14:35:32 GMT
+! Last modified: Sat, 11 Mar 2023 09:17:17 GMT
 !
 !
 ||turbotrck.art^
@@ -16,6 +16,7 @@
 ||bestbonus-zone.life^
 ||cutfluboth.live^
 ||find-top-prizes-here.life^
+||getbigbonuses^
 ||greatbonushere.life^
 ||wintouch.life^
 ||delicatedate.net^
@@ -47,7 +48,11 @@
 ||viewty.xyz^
 ||weartradefamous.xyz^
 ||yardwarmine.xyz^
+||fislezcrispcfs.plus^
+||slow.im^
 ||motorsportal.at^
+||oerhb-weiz.at^
+||picturesofyou.at^
 ||beglaubigteuebersetzungen.ch^
 ||brautmode-aroha.ch^
 ||hellopsy.ch^
@@ -325,6 +330,7 @@
 ||h72kkp.co^
 ||h7h8h9.co^
 ||habihia.co^
+||halenews.co^
 ||hangitupheck.co^
 ||happyplannhool.co^
 ||hargaepoxyjkrta.co^
@@ -765,15 +771,23 @@
 ||dachdeckerschwabach.de^
 ||outdoor-fitcamp.de^
 ||amamas.es^
+||artistasasociados.es^
 ||barberiaavila.es^
+||carefreetire.es^
+||circuitoduatlongranadino.es^
 ||clinicadentalsanfernando.es^
 ||cuerisimoss.es^
 ||dmartbeautymicropigmentacion.es^
 ||doctoratorresandrade.es^
+||ebookalcompleto.es^
+||errosparadiabeticos.es^
+||eyrp.es^
 ||fernandokuaresmapeluqueriaymoda.es^
 ||galcaconstruccion.es^
 ||hierroslayosa.es^
 ||hoteltrans.eu^
+||icarehabilitaciones.es^
+||innovawebs.es^
 ||japanbignew.es^
 ||leerdasuenos.es^
 ||limpiezasmarframa.es^
@@ -790,6 +804,7 @@
 ||grande-maison.eu^
 ||mobileadv.eu^
 ||nanosterile.eu^
+||road2cps.eu^
 ||studio-parquet-paris.eu^
 ||wilcy.eu^
 ||digiartesaani.fi^
@@ -798,14 +813,18 @@
 ||luftair.fi^
 ||pikescafe.fi^
 ||westcoastmetal.fi^
+||adt-france-togo.fr^
 ||annugoo.fr^
 ||asteroidworld.fr^
+||aurelienhubert.fr^
 ||autempsdelarose.fr^
 ||bse-events.fr^
 ||chaussmode.fr^
 ||chevaline-charcuterie-charlet.fr^
 ||deputech.fr^
+||deschiensdeschatsdeshumains.fr^
 ||duchatelet-paysage.fr^
+||epsylon-assos.fr^
 ||espaceco45.fr^
 ||fiat600ricambi.fr^
 ||japannowonline.fr^
@@ -814,18 +833,25 @@
 ||lefebvre-traiteur-76.fr^
 ||lemagnac.fr^
 ||lepetitcadenas.fr^
+||location-catamaran-vip.fr^
+||location-lecypres.fr^
 ||lsqueen.fr^
+||mahthailungahn.fr^
 ||misstchintchin.fr^
+||mondabplus.fr^
 ||mondial-infos.fr^
 ||newheel.fr^
 ||nicolascorre.fr^
 ||polenaturemaraisdyves.fr^
+||s-100-a-standard-for-the-ocean.fr^
 ||sapue.fr^
 ||selfportrait.fr^
+||sophro-et-cie.fr^
 ||sramelie.fr^
 ||sweetyfox.fr^
 ||tabac-landes-40.fr^
 ||ucdecor.fr^
+||valerianeholley.fr^
 ||vosideesnotreprojet.fr^
 ||wrapetcompagnie-bordeaux.fr^
 ||arlib.gb.net^
@@ -843,8 +869,10 @@
 ||mangazip.in.net^
 ||ryg.in.net^
 ||airscnew.it^
+||amicibicilaino.it^
 ||artelucelapedalina.it^
 ||enjoyfoggia.it^
+||farmaciecomunalibergamo.it^
 ||giorgiolorefice.it^
 ||in-cantiere.it^
 ||lausviaggi.it^
@@ -852,8 +880,11 @@
 ||marcobrundu.it^
 ||milano.it^
 ||naturalsi.it^
+||nolexgo.it^
 ||opusarea.it^
+||remospazioaperto.it^
 ||rizzimobili.it^
+||studiovangieri.it^
 ||alde.jp.net^
 ||blackline.jp.net^
 ||channel.jp.net^
@@ -1023,14 +1054,24 @@
 ||smb-binnenstebuiten.nl^
 ||toversalon.nl^
 ||yvoweb.nl^
+||akredytacjabik.pl^
 ||apartamenty-brzeznicka.pl^
+||atecaircraft.pl^
 ||baniaryb.pl^
+||betonowe-inspiracje.pl^
+||dariazasun.pl^
+||dks-optyk.pl^
+||dronwork.pl^
 ||ekoclean-tavik.pl^
+||garwackibus.pl^
 ||ideria.pl^
+||kingsshop.pl^
 ||mediavers.pl^
 ||msopony.pl^
 ||murielsense.pl^
 ||nosmaske.pl^
+||selfbook.pl^
+||staniszewski-triathlon.pl^
 ||stop-bazom-usa.pl^
 ||wtempie.pl^
 ||zwracaprowizje.pl^
@@ -1063,13 +1104,19 @@
 ||tati-tatis.ru^
 ||uk-arkada.ru^
 ||zolotoylew.ru^
+||aem.si^
+||arhi-tura.si^
+||iaas.si^
 ||invizion-studios.si^
 ||nezaillustrations.si^
 ||queens-plan.si^
 ||wolfofsnowstorm.si^
 ||subzero6969.site^
 ||auto-moto-diely.sk^
+||maxfit.sk^
 ||omegailava.sk^
+||sebastova.sk^
+||solinotes.sk^
 ||technickeplynysklad.sk^
 ||tofakt.sk^
 ||vedenie-ludi^
@@ -1080,4 +1127,3 @@
 ||testrubwant.xyz^
 ||trkcwlk.xyz^
 ||zoomftolk.xyz^
-||halenews.co^
