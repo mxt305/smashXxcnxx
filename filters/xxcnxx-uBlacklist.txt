@@ -8,7 +8,7 @@
 *://bestbonus-zone.life/*
 *://cutfluboth.live/*
 *://find-top-prizes-here.life/*
-*://getbigbonuses/*
+*://getbigbonuses.life/*
 *://greatbonushere.life/*
 *://wintouch.life/*
 *://delicatedate.net/*
@@ -52,7 +52,7 @@
 *://*.bestbonus-zone.life/*
 *://*.cutfluboth.live/*
 *://*.find-top-prizes-here.life/*
-*://*.getbigbonuses/*
+*://*.getbigbonuses.life/*
 *://*.greatbonushere.life/*
 *://*.wintouch.life/*
 *://*.delicatedate.net/*
