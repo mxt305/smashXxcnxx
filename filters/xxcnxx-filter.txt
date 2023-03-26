@@ -3,7 +3,7 @@
 ! Description: Filter for blocking phishing website which is Taiwan-user-oriented
 ! Homepage: https://github.com/mxt305/smashXxcnxx
 ! License: https://github.com/mxt305/smashXxcnxx/blob/main/LICENSE
-! Last modified: Sun, 26 Mar 2023 09:57:00 GMT
+! Last modified: Sun, 26 Mar 2023 10:00:37 GMT
 !
 !
 ||turbotrck.art^
@@ -29,7 +29,7 @@
 ||f8eke^
 ||qabayz.site^
 ||theironnews.site^
-||2mqpupjy3^
+||2mqpupjy3.store^
 ||agreebetteriron.top^
 ||choosewidethus.top^
 ||corepsh.top^
