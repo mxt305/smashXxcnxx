@@ -18,7 +18,7 @@
 *://delicatedate.net/*
 *://fislezcrispcfs.plus/*
 *://qwvaemeivec.plus/*
-*://f8eke/*
+*://f8eke.quest/*
 *://qabayz.site/*
 *://theironnews.site/*
 *://2mqpupjy3.store/*
@@ -67,7 +67,7 @@
 *://*.delicatedate.net/*
 *://*.fislezcrispcfs.plus/*
 *://*.qwvaemeivec.plus/*
-*://*.f8eke/*
+*://*.f8eke.quest/*
 *://*.qabayz.site/*
 *://*.theironnews.site/*
 *://*.2mqpupjy3.store/*
